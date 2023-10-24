@@ -1,7 +1,6 @@
 #include<stdio.h>
 
 int main(void){
-    /***  ***/
     float sahen, uhen, answer; 
     char enzan;
 
